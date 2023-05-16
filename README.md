@@ -8,6 +8,3 @@
 ### Me conheça um pouco mais 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-ribeiro-a4710b251/)  
-
-
-![Oscar  GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscar-devjava&show_icons=true&theme=radical)
